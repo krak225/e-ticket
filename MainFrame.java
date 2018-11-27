@@ -9,7 +9,7 @@ public class MainFrame extends JFrame{
 	}
  
 	private void build(){
-		setTitle("Ma première fenêtre"); //On donne un titre à l'application
+		setTitle("E-ticket - Gestion des tickets"); //On donne un titre à l'application
 		setSize(320,240); //On donne une taille à notre fenêtre
 		setLocationRelativeTo(null); //On centre la fenêtre sur l'écran
 		setResizable(false); //On interdit la redimensionnement de la fenêtre
