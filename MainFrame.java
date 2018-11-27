@@ -2,7 +2,7 @@ import javax.swing.JFrame;
  
 public class MainFrame extends JFrame{
  
-	public SimpleFenetre(){
+	public MainFrame(){
 		super();
  
 		build();//On initialise notre fenêtre
